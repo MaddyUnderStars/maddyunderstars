@@ -1,3 +1,3 @@
-<pre align="center">
-	<h1>Hi, I'm Madeline!</h1>
+<pre>
+	<h1 align="center">Hi, I'm Madeline!</h1>
 </pre>
